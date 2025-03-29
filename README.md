@@ -16,7 +16,8 @@ Help an organization to employee performance and improve retention (Reduce Attri
 -	Made workforce more productive
 -	Gained employee trust
 
-  
--	**Link to Interactive <a href="https://github.com/Pravin12131/Employee-Attrition-Insight/blob/main/HR%20Analytics%20Dashboard.pbix">Dashboard</a>**
 ## What I have learned:
 This project honed my skills in Power BI, providing hands-on experience with real-world data. I mastered the art of transforming raw information into actionable insights, a skill crucial in the dynamic landscape of data analytics.
+
+
+-	**Link to Interactive <a href="https://github.com/Pravin12131/Employee-Attrition-Insight/blob/main/HR%20Analytics%20Dashboard.pbix">Dashboard</a>**
