@@ -22,4 +22,4 @@ This project honed my skills in Power BI, providing hands-on experience with rea
 
 -	**Link to Interactive <a href="https://github.com/Pravin12131/Employee-Attrition-Insight/blob/main/HR%20Analytics%20Dashboard.pbix">Dashboard</a>**
 
--	Dashboard:<a href="https://github.com/Pravin12131/Employee-Attrition-Insight/blob/main/HR%20Analytics%20Dashboard.pdf">View</a>
+-	**Dashboard: <a href="https://github.com/Pravin12131/Employee-Attrition-Insight/blob/main/HR%20Analytics%20Dashboard.pdf">View</a>**
